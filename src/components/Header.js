@@ -5,7 +5,7 @@ const Header = () => {
 		<header>
 			<nav className="nav-wrapper indigo darken-4">
 				<div className="container">
-					<a href="" className="brand-logo">PangkasRambutkambera</a>
+					<a href="" className="brandlogocustom">PangkasRambutkambera</a>
 					<a href="" className="sidenav-trigger" data-target="mobile-menu">
 						<i className="material-icons">menu</i>
 					</a>
