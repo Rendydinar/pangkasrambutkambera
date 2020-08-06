@@ -13,7 +13,7 @@ const About = () => {
 		  		<div className="row">
 		  			<div className="col s12 l4">
 		  				<h2 className="indigo-text text-darken-4">Tentang Kami</h2>
-							<p>Pangkas Rambu Kambera, tempat pangkas rambut yang ada di wangga</p>
+							<p>Pangkas Rambut Kambera, tempat pangkas rambut yang ada di wangga</p>
 							<p>Memastikan setiap pelanggan yang hendak ingin gunting rambut pulang akan dijamin ganteng.</p>
 							<p>Tersedia juga rental PS 3.</p>
 		  			</div>
@@ -28,7 +28,7 @@ const About = () => {
 		  				</ul>
 		  				<div className="col s12" id="pangkasrambut">
 		  					<p className="flow-text indigo-text text-darken-4">PANGKAS RAMBUT</p>
-		  					<p>Pangkas Rambu untuk orang dewasa/anak-anak. Pulang dijamin ganteng</p>
+		  					<p>Pangkas Rambut untuk orang dewasa/anak-anak. Pulang dijamin ganteng</p>
 		  					<p>Harga sangat terjangkau, hanya Rp.15.000 berlaku untuk semua orang</p>
 		  				</div>
 		  				<div className="col s12" id="rentalps3">
