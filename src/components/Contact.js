@@ -16,7 +16,7 @@ const Contact = () => {
 							<ul className="collection with-header">
 								<li className="collection-header"><h4>Tempat Kami <i className="material-icons small">place</i></h4></li>
 								<li className="collection-item">Pangkas Rambut Kambera</li>
-								<li className="collection-item">Jl. Beringin, Wangga Nackhunk, Waingapu</li>
+								<li className="collection-item">Jln. Perdamaian, Wangga Nackhunk, Waingapu</li>
 								<li className="collection-item">Nusa Tenggara Timur, Indonesia</li>
 								<li className="collection-item"><i className="fab fa-whatsapp"></i> <a href="https://wa.me/+6285253935479" target="_blank">Whatsapp: +6285253935479</a></li>
 								<li className="collection-item"><i className="fab fa-facebook"></i> <a href="https://www.facebook.com/pangkasrambut.kambera" target="_blank">Pangkas Rambu Kambera</a></li>										
